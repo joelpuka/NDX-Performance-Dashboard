@@ -7,11 +7,11 @@ The analysis demonstrates quantitative skills and domain knowledge relevant to f
 
 ## Key Metrics
 - **Daily Average Return**: 0.07%  
-- **Annualized Average Return**: 17.64%  
+- **Annualized Average Return**: 16.86%  
 - **Maximum Drawdown**: -82.90% (dot-com bust peak to trough)  
 - **Annualized Volatility (Std Dev)**: 25.92%  
-- **Excess Return** (above risk-free rate): 14.64%  
-- **Sharpe Ratio**: 0.56  
+- **Excess Return** (above risk-free rate): 13.86%  
+- **Sharpe Ratio**: 0.53  
 
 ## Visualizations
 Interactive cumulative returns chart with annotations for major events:
