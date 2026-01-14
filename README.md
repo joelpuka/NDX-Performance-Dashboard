@@ -21,8 +21,7 @@ Interactive cumulative returns chart with annotations for major events:
 - 2020 COVID Crash + Quantitative Easing Recovery  
 - 2022 Bear Market (rate hikes/tightening)  
 
-[View Live Dashboard / Interactive Chart →](https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/pubhtml?gid=0&single=true&widget=true&headers=false)  
-*(Replace with your actual published chart link from Google Sheets → File → Share → Publish to web)*
+[View Live Dashboard / Interactive Chart →](https://docs.google.com/spreadsheets/d/1GgfNm8PoIP3C531gaQac8P8ASiWRYYDBL1V1B_nkN4U/edit?usp=sharing)  
 
 ## Tools & Methodology
 - **Data Source**: Historical daily OHLCV data (sourced from Alpha Vantage / Investing.com)  
